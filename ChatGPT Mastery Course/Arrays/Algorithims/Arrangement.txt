@@ -1,0 +1,13 @@
+* Rearrangement & Pattern Problems
+
+Array rotation
+
+Reverse algorithm
+
+Rearrange positives/negatives
+
+Wiggle sort
+
+Cyclic sort
+
+Find missing + repeating numbers

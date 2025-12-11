@@ -1,0 +1,11 @@
+* Bit Manipulation on Arrays
+
+Find unique number
+
+Find two unique numbers
+
+Count bits
+
+All subsets using bitmask
+
+Bitmask DP introduction

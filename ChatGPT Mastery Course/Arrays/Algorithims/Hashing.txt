@@ -1,0 +1,15 @@
+🧠 Hash Map Based
+
+Count occurrences
+
+Subarray sum = K
+
+Subarray XOR = K
+
+Longest subarray with zero sum
+
+Majority elements (Moore’s Voting)
+
+Anagram checking
+
+Frequency sorting

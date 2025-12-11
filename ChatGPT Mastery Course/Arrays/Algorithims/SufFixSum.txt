@@ -1,0 +1,61 @@
+🔁 Suffix arrays (basic version)
+
+RangeSuffix operations
+
+
+⭐ SUFFIX SUM — LeetCode Problems
+🟩 Easy
+
+Find Pivot Index – LC 724
+
+Check If Array Is Good – LC 2784
+
+(You compute total sum → prefix builds → suffix deduced)
+
+🟨 Medium
+
+Product of Array Except Self – LC 238 (suffix product essential)
+
+Ways to Make a Fair Array – LC 1664 (suffix even/odd sum)
+
+Array Partitioning Problems (various)
+
+Longest Turbulent Subarray – suffix-like rolling logic
+
+Minimum Deletions to Make Character Frequencies Unique – suffix usage on freq array
+
+🟥 Hard
+
+Split Array Largest Sum – LC 410 (suffix DP variant)
+
+Make Sum Divisible by P – LC 1590 (prefix mod + suffix adjust)
+
+Trapping Rain Water – LC 42 (suffix max array)
+
+Maximum Subarray Sum with One Deletion – LC 1186 (suffix DP)
+
+
+⭐ CODEFORCES — SUFFIX SUM PROBLEMS
+🟩 Easy
+
+CF 339A – Helpful Maths
+
+CF 733A – Grasshopper
+
+CF 580A – Kefa and First Steps (suffix non-decreasing)
+
+🟨 Medium
+
+CF 915B – Browser (prefix-suffix decision logic)
+
+CF 6C – Alice, Bob and Chocolate (split using suffix)
+
+CF 1030C – Vasya and Golden Ticket (suffix = prefix partition)
+
+🟥 Hard
+
+CF 1333F – Kate and Imperfection
+
+CF 1670E – Special Elements (suffix sum & prefix tracking)
+
+CF 165C – Another Problem on Strings (suffix remainder trick)

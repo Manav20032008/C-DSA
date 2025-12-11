@@ -1,0 +1,100 @@
+➿ Two Pointer
+
+Pair sum
+
+3-sum
+
+4-sum
+
+Remove duplicates
+
+Sort colors (Dutch Flag)
+
+Move zeros
+
+Partitioning
+
+
+
+⭐ **PHASE 5 — TWO POINTERS ALGORITHMS
+
+(LeetCode + Codeforces Problem List)**
+
+    ✅ LeetCode – Easy
+
+These build intuition for pointer movement:
+
+Move Zeroes – LC 283
+
+Remove Duplicates from Sorted Array – LC 26
+
+Squares of a Sorted Array – LC 977
+
+Reverse String – LC 344
+
+Merge Sorted Array – LC 88
+
+    ✅ LeetCode – Medium
+
+Core two-pointer problems:
+
+Two Sum II: Input Array is Sorted – LC 167
+
+3Sum – LC 15
+
+Container With Most Water – LC 11
+
+Sort Colors (Dutch National Flag) – LC 75
+
+Remove Duplicates from Sorted Array II – LC 80
+
+Minimum Difference Between Largest and Smallest Value in Three Moves – LC 1509
+
+4Sum II – LC 454 (hashing + two pointers hybrid)
+
+    ✅ LeetCode – Hard
+
+These represent true mastery:
+
+Trapping Rain Water – LC 42
+
+Sliding Window Maximum (two-pointer + deque) – LC 239
+
+Minimum Window Subsequence – LC 727
+
+Longest Increasing Path (DP + pointers idea) – LC 329
+
+Palindrome Pairs – LC 336 (advanced two-pointer checks)
+
+    🎯 Codeforces — Two Pointer Problems (Increasing Difficulty)
+    🍀 Easy
+
+CF 381A – Sereja and Dima
+
+CF 144A – Arrival of the General
+
+CF 1399A – Remove Smallest
+
+CF 327A – Flipping Game
+
+    🔥 Medium
+
+CF 676C – Vasya and String (great two-pointer + window logic)
+
+CF 1490B – Balanced Remainders
+
+CF 1352C – K-th Not Divisible by n
+
+CF 1201A – Important Exam
+
+CF 6C – Alice, Bob and Chocolate (classic two-pointer problem)
+
+    💀 Hard
+
+CF 1000E – Military Problem
+
+CF 279B – Books (two-pointer sliding window hybrid)
+
+CF 701C – They Are Everywhere
+
+CF 1354D – Multiset operations (two-pointer + binary search)

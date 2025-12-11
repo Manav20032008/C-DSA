@@ -1,0 +1,21 @@
+ALGORITHM 4: DIFFERENCE ARRAY
+7️⃣ DUTCH NATIONAL FLAG ALGORITHM — Sort 0, 1, 2
+8️⃣ FLOYD'S CYCLE DETECTION — (Tortoise & Hare)
+9️⃣ MOORE’S VOTING ALGORITHM — Majority Element (> n/2 times)
+
+
+* Classic Interview Problems
+
+Jump game
+
+Product of array except self
+
+Trapping rainwater
+
+Gas station
+
+Maximum circular sum
+
+Spiral matrix
+
+Subsets / permutations

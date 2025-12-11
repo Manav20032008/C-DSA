@@ -1,0 +1,21 @@
+* Advanced Structures
+
+🔥 Mo’s Algorithm
+
+Offline range queries
+
+🌲 Fenwick Tree (Binary Indexed Tree)
+
+Dynamic prefix sum
+
+Point update
+
+🌲 Segment Tree
+
+Range min/max/sum queries
+
+Lazy propagation
+
+🧊 Sparse Table
+
+Static RMQ
