@@ -1,0 +1,18 @@
+ALGO :
+    we have to use 2 or more than 2 pointer to solve the problem in efficient way.
+
+EX :
+    Q- finds two numbers from the array whose sum = 4 .
+
+    arr = [1,6,9,7,5,3]
+           ^         ^
+           |         | 
+           P1        P2
+
+USECASE :
+    Pair Sum
+    3Sum
+    4Sum
+    Remove Duplicates
+    Move Zeroes
+    Partitioning

@@ -1,0 +1,36 @@
+⭐ LeetCode :
+    Easy ->
+        Maximum Average Subarray I – LC 643
+        Contains Duplicate II – LC 219
+        Minimum Size Subarray Sum (basic version) – LC 209 (medium but doable)
+        Number of Subarrays of Size K and Average ≥ Threshold – LC 1343
+
+    Medium ->
+        Longest Substring Without Repeating Characters – LC 3
+        Longest Repeating Character Replacement – LC 424
+        Permutation in String – LC 567
+        Find All Anagrams in a String – LC 438
+        Fruit Into Baskets – LC 904
+        Minimum Window Substring – LC 76
+        Subarrays with K Different Integers – LC 992 (classic advanced window)
+        Subarray Product Less Than K – LC 713
+        Longest Substring With At Most K Distinct Characters – LC 340
+
+    Hard ->
+        Sliding Window Maximum – LC 239 (deque-based O(n))
+        Minimum Window Subsequence – LC 727
+        Longest Substring With Exactly K Distinct Characters – Variation of LC 340
+        Count Subarrays With Median K – LC 2488
+
+🎯 Codeforces :
+    279B – Books (most famous intro sliding window problem)
+    363B – Fence
+    460A – Vasya and Socks
+    676C – Vasya and String (window on characters)
+    732B – Roadside Trees
+    1490C – Sum of Cubes (window + two pointer hybrid)
+    1000B – Light It Up
+    1004C – Sonya and Queries
+    795B – Sliding Window with constraints
+    920F – Dynamic Range Sum Window (segment tree + window)
+    1730D – Prefix Window Optimization

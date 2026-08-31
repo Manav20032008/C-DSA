@@ -1,0 +1,39 @@
+⭐ LeetCode :
+    Easy ->
+        Running Sum of 1D Array – LC 1480
+        Find Pivot Index – LC 724
+        Minimum Value to Get Positive Step by Step Sum – LC 1413
+        Check if N and its Double Exist – LC 1346 (prefix reasoning variant)
+
+    Medium ->
+        Subarray Sum Equals K – LC 560
+        Continuous Subarray Sum – LC 523
+        Count Number of Nice Subarrays – LC 1248
+        Longest Well-Performing Interval – LC 1124
+        Product of Array Except Self – LC 238 (prefix + suffix multipliers)
+        Maximum Size Subarray Sum Equals k – LC 325
+        Sum of Absolute Differences in Sorted Array – LC 1685
+        Number of Ways to Split Array – LC 2270
+        Ways to Make a Fair Array – LC 1664 (prefix even/odd sum trick)
+
+    Hard ->
+        First Missing Positive – LC 41 (prefix/suffix idea in disguise)
+        Maximum Sum of Two Non-Overlapping Subarrays – LC 1031
+        Minimum Number of Operations to Make Array Continuous – LC 2009 (prefix + window logic)
+        Shortest Subarray with Sum at Least K – LC 862 (monotonic queue + prefix)
+        Count Vowel Permutation – LC 1220 (prefix transitions)
+
+🎯 Codeforces :
+    363B – Fence
+    474B – Worms
+    433B – Kuriyama Mirai’s Stones (classic prefix problem)
+    313B – Ilya and Queries (string prefix trick)
+    459B – Pashmak and Flowers
+    978D – Almost Arithmetic Progression
+    69E – Subsegments
+    385C – Bear and Prime Numbers
+    816B – Karen and Coffee
+    279B – Books (prefix + sliding window)
+    1191D – Tokitsukaze, CSL and Stone Game
+    1C – Ancient Berland Circus (prefix geometry)
+    433D – Nanami’s Digital Board

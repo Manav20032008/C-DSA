@@ -1,0 +1,38 @@
+⭐ LeetCode :
+    Easy ->
+        Move Zeroes – LC 283
+        Remove Duplicates from Sorted Array – LC 26
+        Squares of a Sorted Array – LC 977
+        Reverse String – LC 344
+        Merge Sorted Array – LC 88
+    
+    Medium ->
+        Two Sum II: Input Array is Sorted – LC 167
+        3Sum – LC 15
+        Container With Most Water – LC 11
+        Sort Colors (Dutch National Flag) – LC 75
+        Remove Duplicates from Sorted Array II – LC 80
+        Minimum Difference Between Largest and Smallest Value in Three Moves – LC 1509
+        4Sum II – LC 454 (hashing + two pointers hybrid)
+
+    Hard ->
+        Trapping Rain Water – LC 42
+        Sliding Window Maximum (two-pointer + deque) – LC 239
+        Minimum Window Subsequence – LC 727
+        Longest Increasing Path (DP + pointers idea) – LC 329
+        Palindrome Pairs – LC 336 (advanced two-pointer checks)
+
+🎯 Codeforces :
+    381A – Sereja and Dima
+    144A – Arrival of the General
+    1399A – Remove Smallest
+    327A – Flipping Game
+    676C – Vasya and String (great two-pointer + window logic)
+    1490B – Balanced Remainders
+    1352C – K-th Not Divisible by n
+    1201A – Important Exam
+    6C – Alice, Bob and Chocolate (classic two-pointer problem)
+    1000E – Military Problem
+    279B – Books (two-pointer sliding window hybrid)
+    701C – They Are Everywhere
+    1354D – Multiset operations (two-pointer + binary search)

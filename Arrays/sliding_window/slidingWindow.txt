@@ -1,0 +1,13 @@
+ALGO :
+    We use 2 pointers and with help of that we built a window (all indices between them) and then we'll manually slide that window.
+
+TYPES :
+    1.Fixed Size Window 
+    2.Variable Size Window
+
+EX :
+    Q - finds a 3 sized subarray whose sum is biggest .
+
+    arr = [1,6,9,7,5,3]
+             [___]
+

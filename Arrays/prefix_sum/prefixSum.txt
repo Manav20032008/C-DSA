@@ -1,0 +1,17 @@
+ALGO :
+    we modify the array by doing the sum of the elements from index 0 to current element into the current position.
+
+TYPES :
+    Prefix sum
+    Prefix XOR
+    Prefix Min/Max
+    Prefix GCD/LCM
+    Range query solution
+
+EX :
+
+    arr = [1,6,9,7,5,3]
+
+    prefixed_arr = [1,7,16,23,28,31]
+
+    
