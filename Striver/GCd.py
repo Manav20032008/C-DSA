@@ -1,0 +1,7 @@
+class Solution:
+    def GCD(self, n1, n2):
+        if n2 > n1 :
+            n1 , n2 = n2 , n1 
+        if n2 == 0 :
+            return n1 
+        return self.GCD(n2,n1%n2)

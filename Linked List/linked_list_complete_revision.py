@@ -1,10 +1,6 @@
 """
 LINKED LIST — COMPLETE REVISION FILE
 ====================================
-
-Purpose:
-    A single Python revision file for placement/interview preparation.
-
 Covers:
     1. Singly Linked List
     2. Doubly Linked List
@@ -23,11 +19,6 @@ Covers:
     15. Duplicate removal
     16. Advanced interview patterns
     17. Complexity cheat sheet
-
-Use this file as a 2-month pre-placement revision library.
-Try to implement each algorithm yourself before reading the function.
-
-Python only.
 """
 
 # ============================================================
